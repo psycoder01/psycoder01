@@ -1,5 +1,6 @@
 # Psycoder01
-
+<p align="center"> <img src="https://media.tenor.com/images/f6daf95b1f94bf15c4eacb3edc7f2c93/tenor.gif" alt="hello there"/> </p>
+  
 ### Hi there 👋 ! 
 My name is Aakash Chaudhary a.k.a Psycoder01 😎. I'm a student currently studying Computer Science 💻 at ASCOL in Kathmandu,Nepal 🇳🇵. I'm focuing 🚀 on making a career in Sofware Development 👨🏻‍💻 . I love coding and doing tech related stuffs. A keen learner 🤩 of this MultiVerse and knowledge gathering is my religion.
 
