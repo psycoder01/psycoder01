@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media.tenor.com/images/f6daf95b1f94bf15c4eacb3edc7f2c93/tenor.gif" alt="hello there"/> </p>
   
 ### Hi there 👋 ! 
-My name is Aakash Chaudhary a.k.a Psycoder01 😎. I'm a student currently studying Computer Science 💻 at ASCOL in Kathmandu,Nepal 🇳🇵. I'm focuing 🚀 on making a career in Sofware Development 👨🏻‍💻 . I love coding and doing tech related stuffs. A keen learner 🤩 of this MultiVerse and knowledge gathering is my religion.
+My name is Aakash Chaudhary a.k.a Psycoder01 😎. Basically a geeky nerd from Nepal 🇳🇵. I'm focuing 🚀 on making a career in Sofware Development 👨🏻‍💻 . Computers, Coffee and Cartoons , the C triangle 🤩 for me atleast . Want to evolve my brain functionality to around 9% usage :O . 
 
 <!--
 **psycoder01/psycoder01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
