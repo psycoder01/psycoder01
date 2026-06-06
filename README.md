@@ -8,8 +8,8 @@ My name is Aakash Chaudhary. I love computers, coffee and cartoons. Currently a 
 **psycoder01/psycoder01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 **Know About Me**
-- 🔭 I’m currently working on Custom Software Development, Web Development, Backend Systems, Server Management.
-- 🌱 I’m currently learning Functional Programming, Category Theory.
+- 🔭 I’m currently working on Backend Engineering, System Development and some AI modeling.
+- 🌱 I’m currently learning Functional Programming, Category Theory, AI.
 - 🤔 I’m looking for creativity.
 - 💬 Ask me about anything, I'll do my best to answer.
 - 📫 How to reach me: aakashchy13@gmail.com .
