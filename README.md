@@ -16,7 +16,7 @@ My name is Aakash Chaudhary. I love computers, coffee and cartoons. Currently a 
 - ⚡ Fun fact: An introvert nerdy 🧏🏻‍♂️ person who loves coding, CS 2 and motorcycling !
 <br />
 
-``` console.log("My Tech Stack")``` 🛠
+``` for { ts <- TechStacks } yield println(ts)  ``` 🛠
 
 |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" width="30"><br/>React | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node logo" width="30"><br/>NodeJS | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb logo" width="30"><br/>MongoDB | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" width="30"><br/>TypeScript | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="30"><br/>vim | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala logo" width="30"><br/>Scala | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql logo" width="30"><br/>SQL | 
 |---|---|---|---|---|---|---|
