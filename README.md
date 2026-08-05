@@ -16,7 +16,7 @@ My name is Aakash Chaudhary. I love computers, coffee and cartoons. Currently a 
 - ⚡ Fun fact: An introvert nerdy 🧏🏻‍♂️ person who loves coding, CS 2 and motorcycling !
 <br />
 
-``` for { ts <- TechStacks } yield println(ts)  ``` 🛠
+``` for { ts <- TechStacks } do println(ts)  ``` 🛠
 
 |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala logo" width="30"><br/>Scala | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" width="30"><br/>Typescript | <img src="https://github.com/zio/.github/blob/main/ZIO.png" alt="zio logo" width="30"><br/>ZIO | <img src="https://avatars.githubusercontent.com/u/1527492?s=200&v=4" alt="http4s logo" width="30"><br/>http4s | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql logo" width="30"><br/>PostgreSQL | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="30"><br/>Docker | 
 |---|---|---|---|---|---|
